@@ -8,7 +8,7 @@ As a Computer Science student at the University of St. Thomas, I’ve worked on 
 
 ## 💼 Project 1: Delta Batha Auto Parts Website  
 🔗 [GitHub Repo](https://github.com/AbdullahAljaberi/asajabi.github.io)  
-🌐 [Live Site](https://AbdullahAljaberi.github.io)
+🌐 [Live Site](https://abdullahaljaberi.github.io/)
 
 This is a website I developed for my father’s small business that sells Nissan auto parts. I built the frontend entirely using HTML, CSS, and JavaScript. The website is bilingual (Arabic and English) and designed to be responsive and user-friendly.
 
