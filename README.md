@@ -20,7 +20,8 @@ This project supports a family-owned small business and helps transition it into
 ---
 
 ## 🎨 Project 2: Clown Face Music Visualizer  
-🔗 [GitHub Repo](https://github.com/YOUR-USERNAME/visualizer-repo)
+🔗 [GitHub Repo][GitHub Repo](https://github.com/AbdullahAljaberi/music-visualizer)
+
 
 This creative project uses Three.js to visualize audio input in real time. The centerpiece is a 3D clown face that reacts dynamically to the rhythm and frequency of music.
 
@@ -33,7 +34,7 @@ This project reflects the artistic potential of programming and how code can bri
 ---
 
 ## 🐍 Project 3: Snake Game  
-🔗 [GitHub Repo](https://github.com/YOUR-USERNAME/snake-game)
+🔗 [GitHub Repo](https://github.com/AbdullahAljaberi/snake)
 
 A classic Snake game I built to reinforce my programming fundamentals. It uses keyboard input, collision detection, and game state management. I designed the logic to allow automatic restart and increasing difficulty.
 
