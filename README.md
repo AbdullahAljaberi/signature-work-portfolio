@@ -2,9 +2,9 @@
 
 ## 🔰 Introduction
 
-This portfolio is my Signature Work submission for **CISC 480 – Senior Capstone** at the University of St. Thomas. As a Computer Science student, I have developed projects that reflect both my technical growth and personal values. Each project here represents a real-world connection: whether it's helping my family's business, exploring creativity through programming, or mastering the fundamentals of logic and interactivity.
+My Signature Work submission for CISC 480 – Senior Capstone at the University of St. Thomas is this portfolio. I have produced projects in Computer Science that represent my technical progress and my own beliefs. I work on these projects to directly connect with what’s important to me: business, creativity and solid logic.
 
-Through this work, I demonstrate not only what I’ve learned but also how I apply technology in ways that align with the **St. Thomas mission** — contributing to the common good, serving communities, and using knowledge for practical, meaningful impact.
+What I show in this work is both my practices and tech applications that fit the Saint Thomas mission which include contributing to the community, serving people and using knowledge in meaningful and helpful ways.
 
 ---
 
@@ -12,13 +12,13 @@ Through this work, I demonstrate not only what I’ve learned but also how I app
 🔗 [GitHub Repo](https://github.com/AbdullahAljaberi/DBP)  
 🌐 [Live Site](https://abdullahaljaberi.github.io/DBP/)
 
-This is a website I developed for my father’s auto parts business. It’s bilingual (Arabic and English), responsive, and user-friendly. The goal is to give customers an easier way to find and buy Nissan parts while helping staff manage inventory.
+I built this website for my father’s company in the auto parts industry. The site is in both Arabic and English, easy to navigate and responsive. The idea is it to make it easier for customers to find and order Nissan parts and to manage stock for the staff.
 
-**Why it matters:**  
-This project is deeply personal. It brings value to a family-run business by bridging it with technology. I learned web development with a purpose — not just building something that works, but something that **serves people**.
+**What makes it important:**
+Working on this project is very personal for me. It helps family businesses succeed by bringing in useful technology. Building something that works well is important to me, but fulfilling is also working on things helpful to those who use my sites.
 
-**Technical Stack:**  
-HTML, CSS, JavaScript (with plans for backend integration)
+**Technical Stack:**
+HTML, CSS and JavaScript are currently in use, followed by backend integration.
 
 ---
 
@@ -26,13 +26,13 @@ HTML, CSS, JavaScript (with plans for backend integration)
 🔗 [GitHub Repo](https://github.com/AbdullahAljaberi/music-visualizer)  
 🌐 [Live Site](https://abdullahaljaberi.github.io/music-visualizer/)
 
-This creative project uses **Three.js** and the Web Audio API to animate a 3D clown face in sync with music frequency. The facial features react in real-time, and flames animate based on bass response.
+This work uses Three.js and the Web Audio API to move a 3D clown face to the rhythm of the music. The features on the face react to what you hear and the flames respond to the bass.
 
-**Why it matters:**  
-This taught me about sound visualization, 3D rendering, and how art and code can work together. It reflects my curiosity and desire to push boundaries of what can be done inside a browser.
+**How does this matter?**  
+I learned how to create visuals of sound, render 3D images and connect art and programming. It comes from my drive to see how much can be done using nothing but a web browser.
 
-**Domain-specific insight:**  
-I worked with digital audio frequencies, buffer analysis, and mesh scaling based on real-time input — an introduction to signal processing in an interactive form.
+**Domain-specific insight:**
+I explored digital audio frequencies, analysed buffers and scaled meshes in real time using a mouse — all this in a signal processing toolkit.
 
 ---
 
@@ -40,21 +40,21 @@ I worked with digital audio frequencies, buffer analysis, and mesh scaling based
 🔗 [GitHub Repo](https://github.com/AbdullahAljaberi/snake)  
 🌐 [Live Site](https://abdullahaljaberi.github.io/snake/)
 
-A classic snake game implemented using **p5.js** and sound libraries. The game includes custom audio for crunching food and game-over events. It keeps score and restarts on collision.
+Game created using p5.js that also uses sound libraries. There are special sounds for crunching food and ending the game included in the game. The game is restarted after you collide with anything.
 
-**Why it matters:**  
-This was one of my early projects. It gave me confidence to turn logic into visual output and helped me master game loops, keyboard input, and real-time updates.
+**How does this matter?**   
+I did this as one of my first projects. Using such a system provided the confidence needed to transform logic into visuals and understand game loops, how keyboards are handled and real-time changes to the game.
 
-**Technical Concepts:**  
-Game loop, object tracking, collision detection, audio event control
+**Technical Concepts:** 
+Blocks for the game loop, watching objects, determining collisions and handling audio events
 
 ---
 
 ## 🧠 Final Reflection
 
-These three projects reflect my journey from learning programming syntax to applying technology for real people, real needs, and real fun. From a business site that empowers my family to a music visualizer that explores creativity, to a game that shows fundamentals — each one taught me something important.
+They show the steps I have taken, from getting familiar with programming language, to actually using technology to help others, solve their needs and enjoy myself. Learning to handle web development from my family business website, try different creativity with music and understand basic concepts through games — each time I learned something valuable.
 
-They also represent the mission of St. Thomas — using what I’ve learned to **serve others**, **create with purpose**, and **build for good**.
+They are a way to show the mission of St. Thomas — helping others, creating with purpose and building something good.
 
 ---
 
