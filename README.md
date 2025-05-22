@@ -36,6 +36,7 @@ This project reflects the artistic potential of programming and how code can bri
 ## 🐍 Project 3: Snake Game  
 🔗 [GitHub Repo](https://github.com/AbdullahAljaberi/snake)  
 🌐 [Live Site](https://abdullahaljaberi.github.io/snake/)
+
 A classic Snake game I built to reinforce my programming fundamentals. It uses keyboard input, collision detection, and game state management. I designed the logic to allow automatic restart and increasing difficulty.
 
 **Why it matters:**  
